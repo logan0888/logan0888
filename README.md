@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: he/hom
 - ⚡ Fun fact: It would take 19 minutes to fall to the center of the Earth.
+- Go check out my website at https://home.resurrectdfir.com. I will be updating it regularly
 
 <!---
 logan0888/logan0888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
